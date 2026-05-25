@@ -1,18 +1,19 @@
-# A decent site for Korean webtoons
+# A practical choice for manhwa and webtoons (yes, there are ads – but they're fine)
 
-I read a lot of Korean webtoons and manhwa. Many free sites are either painfully slow or flooded with pop-up ads. 
+Let's be real: most free webtoon sites are a nightmare. Pop-ups every click, laggy scrolling, and half the images don't load.
 
-Recently I found **m206.com**. It's not perfect – there are some ads – but they're mild and don't ruin the reading experience.
+**m206.com** surprised me. It has some banner ads – but they're **static, non-intrusive, and won't ruin your reading**. The site is fast, the collection of Korean manhwa is solid, and it updates regularly.
 
-## What I like
+## What works for me
 
-- **Reasonable ad load** – a few banners, no full-screen pop-ups
-- **Good speed** – pages load fast even from overseas
-- **Solid collection** – lots of Korean webtoons, plus some manhua and manga
-- **Daily updates** – usually within a day or two of new releases
+- **Mild ad load** – no full-screen surprises
+- **Good speed** – even for high-res webtoon images
+- **Mixed library** – manhwa, manhua, manga all in one
+- **Daily updates** – keeps up with ongoing series
+- **Works on phone** – responsive design
 
-## Try it out
+## Check it out
 
 👉 [https://m206.com](https://m206.com)
 
-Web-based, no app needed. The ads are there but honestly not annoying. Worth bookmarking.
+If you're looking for a free site that doesn't suck, this is a safe bet.
